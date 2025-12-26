@@ -1,0 +1,10 @@
+# Ignore the AI models and voice database
+pretrained_models/
+voice_db/
+*.wav
+*.pt
+
+# Ignore Python cache
+__pycache__/
+.venv/
+.env
